@@ -1,0 +1,4 @@
+plugin.tx_jmrecaptcha {
+	# cat=plugin.recaptcha//07; type=options[,red,white,blackglass,clean,custom]; label= reCAPTCHA Theme: Predefined reCAPTCHA themes
+	theme = clean
+}

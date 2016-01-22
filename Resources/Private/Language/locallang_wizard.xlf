@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-05-23T20:22:33Z" product-name="cdsrc_recaptcha_form">
+		<header/>
+		<body>
+			<trans-unit id="predefined_recaptcha" xml:space="preserve">
+				<source>Recaptcha</source>
+			</trans-unit>
+			<trans-unit id="elements_label_recaptcha" xml:space="preserve">
+				<source>Recaptcha</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
